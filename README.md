@@ -26,4 +26,4 @@ Current Aircraft Skins:
 * :page_with_curl: Forum: https://frontsidegaming.com/forum
 * :microphone: Teamspeak: `ts3.frontsidegaming.com` or `FSG`
 
-Contact Mail: support@frontsidegaming.com
+Contact Mail: soporte@frontsidegaming.com
