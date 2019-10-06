@@ -15,7 +15,7 @@ Current Aircraft Skins:
   - Macamur2
 - M-200M
   - Alejandro
-- F/A-18C
+- F/A-18C (White & Desert)
   - By-Jokese
   - NavaXXVII
   - Alejandro
