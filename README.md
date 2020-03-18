@@ -21,6 +21,7 @@ Current Aircraft Skins:
   - Alejandro
   - Ignacio
   - Ruben
+  - Macamur2
 - F-14B (In Development)
 - F-16C
   - By-Jokese
